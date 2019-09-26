@@ -19,14 +19,6 @@ ubuntu@DESKTOP-D7QB2EH:/mnt/c/Users/user/Desktop/JO/My Clients/38-Degrees/People
 ====================================
 
 ubuntu@DESKTOP-D7QB2EH:/mnt/c/Users/user/Desktop/JO/My Clients/38-Degrees/PeoplePower/lib$ cat people_power.rb
-#
-# 1.       Please write a Ruby programme which will print the numbers 1 to 100 on separate lines,
-#          except for if the number is divisible by 3, in which case it should print 'People',
-#          or if it is divisible by 5, in which case it should print 'Power'.
-#
-#          If the number is divisible by both 3 and 5 then it should print 'People Power'.
-#          (We would expect you to spend no more than 10-15 minutes solving this problem)
-#
 def people_power
         output = []
         100.times do |index|
@@ -56,13 +48,21 @@ ubuntu@DESKTOP-D7QB2EH:/mnt/c/Users/user/Desktop/JO/My Clients/38-Degrees/People
 ====================================
    
 2.5.0 :043 > load './people_power.rb'
+
  => true
+
 2.5.0 :044 > people_power
+
 1
+
 2
+
 People
+
 4
+
 Power
+
 People
 7
 8
