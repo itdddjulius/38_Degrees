@@ -14,33 +14,33 @@ ubuntu@DESKTOP-D7QB2EH:/mnt/c/Users/user/Desktop/JO/My Clients/38-Degrees/People
 
 def people_power
 
- output = []
+output = []
  
- 100.times do |index|
+100.times do |index|
  
-   number = index + 1
+  number = index + 1
    
-                if number % 15 == 0
+  if number % 15 == 0
    
-            puts 'People Power'
+   puts 'People Power'
      
-                elsif number % 3 == 0
+  elsif number % 3 == 0
 
-            puts 'People'
+   puts 'People'
      
-                elsif number % 5 == 0
+  elsif number % 5 == 0
                 
-            puts 'Power'
+   puts 'Power'
             
-                else
+  else
                 
-            puts number
+   puts number
             
-                end
+  end
                 
-        end
+end
         
-        output
+output
         
 end
 
