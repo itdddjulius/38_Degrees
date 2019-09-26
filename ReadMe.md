@@ -8,14 +8,6 @@
 #
 
 ====================================
-
-ubuntu@DESKTOP-D7QB2EH:/mnt/c/Users/user/Desktop/JO/My Clients/38-Degrees/PeoplePower/lib$ ls -altr
-total 4
-drwxrwxrwx 1 ubuntu ubuntu 4096 Sep 26 18:00 .
--rwxrwxrwx 1 ubuntu ubuntu  378 Sep 26 18:24 people_power.rb
-drwxrwxrwx 1 ubuntu ubuntu 4096 Sep 26 18:26 ..
-ubuntu@DESKTOP-D7QB2EH:/mnt/c/Users/user/Desktop/JO/My Clients/38-Degrees/PeoplePower/lib$
-
 ====================================
 
 ubuntu@DESKTOP-D7QB2EH:/mnt/c/Users/user/Desktop/JO/My Clients/38-Degrees/PeoplePower/lib$ cat people_power.rb
@@ -52,17 +44,11 @@ ubuntu@DESKTOP-D7QB2EH:/mnt/c/Users/user/Desktop/JO/My Clients/38-Degrees/People
  => true
 
 2.5.0 :044 > people_power
-
 1
-
 2
-
 People
-
 4
-
 Power
-
 People
 7
 8
